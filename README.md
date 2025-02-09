@@ -10,7 +10,13 @@ First run the command below to initialize all the dependencies:
 conda env create -f environment.yml
 ```
 
-Then install the TITAN package:
+Then install the electric_fields package:
+
+```
+pip install .
+```
+
+And finally, install the TITAN package:
    
 ```
 cd TITAN-2.0.8
