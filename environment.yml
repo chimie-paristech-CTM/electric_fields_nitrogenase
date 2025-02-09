@@ -1,0 +1,19 @@
+name: electric-fields
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - ipykernel=6.9
+  - pandas=1.4
+  - tqdm=4.64
+  - pip=22.1
+  - biopython=1.82
+  - plotly=5.21
+  - matplotlib=3.5
+  - pdbfixer=1.9
+  - ambertools=23.6
+  - propka=3.5
+  - openbabel=3.1
+  - ase=3.23
+  - pdb2pqr=3.6
+  - openmm=8.1

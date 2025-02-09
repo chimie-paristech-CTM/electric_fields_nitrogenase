@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: electric_fields
+Version: 1.0.1
+Summary: Code to analyze local electric fields around the active site of (nitrogenase) enzymes
+Author: Thijs Stuyver
+License: MIT
+License-File: LICENSE
+
+# Electric-Fields
+
+This the repository corresponding to the Electric Fields project.
+
+### Setting up the environment
+
+First run the command below to initialize all the dependencies:
+
+```
+conda env create -f environment.yml
+```
+
+Then install the TITAN package:
+   
+```
+cd TITAN-2.0.8
+pip install .
+```
+
